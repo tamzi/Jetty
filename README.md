@@ -10,7 +10,7 @@
   <p style="align:center;>
    Jetpack compose UI Library showing implementation of custom UI
     <br>
-     <img src="https://raw.githubusercontent.com/tamzi/i/Jetty/images/built-with-jetpack-compose.svg" alt="JettyUILibrtary built for Android">
+     <img src="https://raw.githubusercontent.com/tamzi/Jetty/84191a831c77221eda65f2ed52da530986f8b5b7/images/built-with-jetpack-compose.svg" alt="JettyUI Library built for Android">
     <br>
     </p>
 
