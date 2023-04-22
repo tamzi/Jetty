@@ -1,4 +1,4 @@
-package com.tamzi.jettylibrary
+package com.tamzi.jettyui
 
 import org.junit.Test
 
